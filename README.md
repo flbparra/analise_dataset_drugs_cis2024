@@ -7,10 +7,11 @@ Nesse projeto, analisei o data_set "Drugs.csv", onde tinha objetivo de tratar os
 ## Estruturação
 
 - dentro da diretorio data_sets, estão presentes os datas sets que gerei e que usei.
-- Em docs está presente os documento do desáfio. 
-
+- em docs está presente os documento do desáfio. 
+- resolução na pasta raiz, tanto a que eu enviei e a que estou refazendo ~cis_remake.
 ---
 
 ## Configuração
 
-- Para rodar esse projeto
+- bibliotecas usadas: pandas e matplotlib.
+- uso do jupyter para rodar os notebooks.
